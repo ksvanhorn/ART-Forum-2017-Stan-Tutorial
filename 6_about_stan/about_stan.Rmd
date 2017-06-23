@@ -1,0 +1,92 @@
+---
+title: "Stan Tutorial"
+subtitle: "About Stan"
+author: "Kevin Van Horn and Elea McDonnell Feit"
+date: "June 25, 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Some other things you ought to know about Stan
+
+## Hamiltonian Monte Carlo
+- To produce draws from the posterior distribution, Stan uses a variation of **Hamiltonian Monte Carlo (HMC)** called the **No U-Turn Sampler (NUTS)**. 
+- HMC is a variation on the Metropolis-Hastings (M-H) algorithm, but it uses the gradient of the distribution to more more quickly to areas of high density. 
+- NUTS further improves on HMC by branching out in many directions at once and avoiding repeated visits to the same area of the posterior. 
+- For an overview of HMC see the [MCMC Handbook Chapter by Radford Neal] (http://www.mcmchandbook.net/HandbookChapter5.pdf) and for more on NUTS see [Hoffman and Gelman](http://www.stat.columbia.edu/~gelman/research/published/nuts.pdf). 
+
+## There are other ways to interface with Stan 
+- RStan (R)
+- PyStan (Python)
+- CmdStan (shell, command-line terminal)
+- MatlabStan (MATLAB)
+- Stan.jl (Julia)
+- StataStan (Stata)
+- MathematicaStan (Mathematica)
+
+## Stan supports other approches to inference
+- Hamiltonian Monte Carlo / NUTS
+    + Default algorithm we have used in this tutorial
+- Variational Bayes
+    + A fast approximation to full Bayesian inference
+    + Somewhat experimental in Stan
+- "Optimization"
+    + Routines that find point estimates of parameters rather than the full posterior, e.g. maximum likelihood (ML) or maximum a posteriori (MAP)
+    
+## You can specify the likelihood directly in Stan
+Advanced Stan users sometimes find it easier to specify the full likelihood of the model directly rather than using the sampling statements we have shown here. 
+```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
+y ~ normal(mu, sigma);
+```
+is equivalent to 
+```{stan,eval=FALSE, echo=TRUE, output.var="dummy"}
+target += normal_lpdf(y | mu, sigma);
+```
+Examples of when this is handy are beyond the scope of this tutorial.
+
+## Useful R packages for working with Stan
+- rstan
+- coda
+    + tools for summarizing draws
+- bayesplot
+    + tolls for summarizing draws
+- ShinyStan
+    + a GUI for exploring posterior draws
+- RStanArm
+    + Provides an "R-like" interface with formula notation for Stan
+
+# Learning more about Stan
+
+## Where can you find help with Stan? 
+- The [Stan forum](http://discourse.mc-stan.org/) is very active and the Stan development team often provides answers to questions. 
+    + A Google search like "multinomial logit in Stan" will often lead you to the forums.
+- Keep in mind that Stan develops over time, so you want to check the date of any post.
+
+## Stan examples
+- The Stan website maintains a library of Stan examples. 
+- We often begin developing a new model by finding an example that is close to what we want and then modifying it. 
+
+## Popular Stan conferences
+- StanCon held annually (StanCon 2017 Notebooks)[http://mc-stan.org/events/stancon]) and is a great place to learn new ways to use Stan.
+- Most presenters provide code.
+
+## Who is responsible for Stan? 
+- Stan is maintained by the [Stan development team](http://mc-stan.org/about/team/index.html), which consistes of consists of volunteers from around the world. 
+- Key players include Andrew Gelman and Bob Carpenter, but they have been joined by many others. 
+
+## Books about Stan
+- [Kruschke, Doing Bayesian Data Analysis, Second Edition: A Tutorial with R, JAGS, and Stan](https://sites.google.com/site/doingbayesiandataanalysis/)  
+- [McElreath, Statistical Rethinking: A Bayesian Course with Examples in R and Stan](http://xcelab.net/rm/statistical-rethinking/)    
+- [Gelman and Hill, Applied Regression Modeling](http://www.stat.columbia.edu/~gelman/arm/)
+    + Focuses on the application of Stan models to social science problems  
+- [Gelman et al., Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)  
+    + Excellent reference if you want to learn Bayesian theory and how Bayesian algorithms work  
+
+
+    
+
+
+

@@ -1,0 +1,80 @@
+---
+title: "Stan Tutorial"
+subtitle: "Welcome"
+author: "Kevin Van Horn and Elea McDonnell Feit"
+date: "June 25, 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is Stan?
+> Stan is freedom-respecting open-source software for facilitating statistical inference at the frontiers of applied statistics.
+
+<div style="text-align: right"> -- Stan homepage </div>
+
+## What is (Bayesian) statistical inference? 
+```{r, fig.align="center"}
+knitr::include_graphics("images/Bayesian_Inference.png")
+```  
+
+## Software options for Bayesian estimation
+- Write-your-own sampler
+- Purpose built routines for individual models  
+    + MCMCPack R package  
+    + Stata's Bayesian package 
+    + Sawtooth CBC/HB 
+- Tools which automatically build samplers for a wide class of models  
+    + WinBugs  
+    + JAGS  
+    + Stan  
+
+## Why Stan? 
+- Ideal tool for rapid prototyping of new models
+- Modern, thoughful software design
+- Increasingly attractive option for fitting even standard Bayesian models
+
+## Tutorial modules
+- Module 1: Linear regression model  
+    + Get up-and-running with Stan  
+- Module 2: Multinomial logit model  
+    + Learn basic Stan syntax  
+    + Test a model using synthetic data  
+- Module 3: Hierarchial multinomial logit model  
+    + Learn more Stan syntax  
+    + Work with hierarchical models  
+- Module 4: Nested hierarchical multinomial logit  
+    + Illustrate development of new models using Stan  
+- Bonus: Data fusion for split questionares   
+
+## A word of warning
+Our focus here is on becoming a capable *user* of Stan, so we won't be spending much time talking about how Stan works internally or how it compares to other Bayesian software or classical inference. 
+
+## Presenters
+- **Kevin Van Horn** Senior Data Science Engineer at Adobe  
+    + Develops commercial-quality software for Bayesian estimation and experimental design  
+  
+- **Elea McDonnell Feit** Assistant Professor of Marketing at Drexel University and Senior Fellow of the Wharton Customer Analtyics Initiative  
+    + Develops tutorials for practitioners in hierarchical Bayes, R, advertising measurement, and field experiments  
+
+## To follow you will need to install: 
+- R statistical language  
+    + Manages data input, inspection and cleaning 
+    + Stores and summarizes posterior draws
+    + Provides graphics
+- R studio (optional)
+    + Convenient user interface for R
+- Rstan package
+    + Modeling language
+    + Statistical inference engine  
+
+## Code files
+Within the folder for each module, you will find:  
+- `.html`: slides for the module   
+- `.R`: R code for the module, so you can follow along  
+- `.csv`: data file we will use for estimation  
+
+There are other files in each module folder, which we will explain later. 
+

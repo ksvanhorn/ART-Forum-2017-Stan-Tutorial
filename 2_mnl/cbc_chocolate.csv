@@ -1,0 +1,1051 @@
+"","Ind","Trial","Alt","Brand","Type","Price","Chosen"
+"1",2401,1,1,"Dove","Milk",0.6,1
+"2",2401,1,2,"Godiva","Dark",0.7,0
+"3",2401,1,3,"Dove","White",3.6,0
+"4",2401,2,1,"Godiva","Milk w Nuts",2.7,0
+"5",2401,2,2,"Godiva","Dark",3.9,1
+"6",2401,2,3,"Hersheys","Milk w Nuts",0.7,0
+"7",2401,3,1,"Hersheys","Dark w Nuts",1.7,0
+"8",2401,3,2,"Godiva","Dark",3.7,1
+"9",2401,3,3,"Hersheys","Dark",3,0
+"10",2401,4,1,"Lindt","Milk",1,1
+"11",2401,4,2,"Lindt","Milk w Nuts",3.6,0
+"12",2401,4,3,"Ghirardelli","Dark w Nuts",0.5,0
+"13",2401,5,1,"Hersheys","Milk w Nuts",0.8,0
+"14",2401,5,2,"Godiva","Dark",1.5,1
+"15",2401,5,3,"Hersheys","White",3.3,0
+"16",2401,6,1,"Lindt","Milk",3.1,0
+"17",2401,6,2,"Dove","White",2.5,0
+"18",2401,6,3,"Godiva","Dark",2.6,1
+"19",2401,7,1,"Godiva","White",3.1,0
+"20",2401,7,2,"Dove","Dark w Nuts",4,0
+"21",2401,7,3,"Godiva","Milk",2.1,1
+"22",2401,8,1,"Hersheys","Dark w Nuts",0.8,0
+"23",2401,8,2,"Godiva","White",3.2,0
+"24",2401,8,3,"Godiva","Dark",1.1,1
+"25",2401,9,1,"Lindt","Dark",2.3,0
+"26",2401,9,2,"Godiva","Dark",1.7,1
+"27",2401,9,3,"Godiva","White",3.8,0
+"28",2401,10,1,"Lindt","Milk w Nuts",0.6,0
+"29",2401,10,2,"Godiva","Milk w Nuts",0.8,1
+"30",2401,10,3,"Hersheys","Dark",3.7,0
+"31",2401,11,1,"Godiva","Milk",1.6,1
+"32",2401,11,2,"Dove","White",0.7,0
+"33",2401,11,3,"Hersheys","Dark w Nuts",1.2,0
+"34",2401,12,1,"Godiva","Dark w Nuts",1.1,0
+"35",2401,12,2,"Dove","Dark w Nuts",0.8,0
+"36",2401,12,3,"Lindt","Dark",3.7,1
+"37",2401,13,1,"Dove","Milk",3,1
+"38",2401,13,2,"Lindt","White",0.8,0
+"39",2401,13,3,"Godiva","White",1.9,0
+"40",2401,14,1,"Lindt","Dark w Nuts",0.6,0
+"41",2401,14,2,"Dove","Milk",3.5,1
+"42",2401,14,3,"Dove","Milk w Nuts",1.9,0
+"43",2401,15,1,"Godiva","Dark",3.7,1
+"44",2401,15,2,"Ghirardelli","Dark",1.5,0
+"45",2401,15,3,"Dove","Dark",1.6,0
+"46",2401,16,1,"Hersheys","Milk w Nuts",0.5,0
+"47",2401,16,2,"Dove","Milk",3.8,1
+"48",2401,16,3,"Dove","Dark w Nuts",3.7,0
+"49",2401,17,1,"Dove","Milk",3.9,1
+"50",2401,17,2,"Dove","Milk w Nuts",1.2,0
+"51",2401,17,3,"Lindt","Milk w Nuts",0.5,0
+"52",2401,18,1,"Godiva","Milk w Nuts",2.8,1
+"53",2401,18,2,"Lindt","Milk",2.7,0
+"54",2401,18,3,"Godiva","White",2.6,0
+"55",2401,19,1,"Hersheys","Milk",3.7,1
+"56",2401,19,2,"Dove","Dark w Nuts",4,0
+"57",2401,19,3,"Dove","Dark",2.8,0
+"58",2401,20,1,"Dove","Dark",0.7,0
+"59",2401,20,2,"Godiva","White",0.8,0
+"60",2401,20,3,"Hersheys","Dark",1.9,1
+"61",2401,21,1,"Ghirardelli","Milk w Nuts",0.8,0
+"62",2401,21,2,"Hersheys","Milk",3,1
+"63",2401,21,3,"Godiva","Milk w Nuts",2.4,0
+"64",2401,22,1,"Godiva","Dark",0.9,1
+"65",2401,22,2,"Dove","Milk w Nuts",3.4,0
+"66",2401,22,3,"Hersheys","Dark w Nuts",3.4,0
+"67",2401,23,1,"Godiva","Dark w Nuts",0.6,1
+"68",2401,23,2,"Dove","White",1.8,0
+"69",2401,23,3,"Dove","Dark",3.4,0
+"70",2401,24,1,"Hersheys","Dark w Nuts",3.6,0
+"71",2401,24,2,"Godiva","Milk w Nuts",3.2,1
+"72",2401,24,3,"Ghirardelli","Milk w Nuts",1.4,0
+"73",2401,25,1,"Lindt","White",1.1,0
+"74",2401,25,2,"Ghirardelli","White",0.8,0
+"75",2401,25,3,"Lindt","Milk",2,1
+"76",2402,1,1,"Hersheys","Milk",2.2,0
+"77",2402,1,2,"Godiva","Dark w Nuts",2.1,1
+"78",2402,1,3,"Dove","Milk",3.5,0
+"79",2402,2,1,"Ghirardelli","Milk w Nuts",1.3,0
+"80",2402,2,2,"Hersheys","White",1.7,0
+"81",2402,2,3,"Hersheys","Milk",3.5,1
+"82",2402,3,1,"Ghirardelli","Milk w Nuts",1.6,0
+"83",2402,3,2,"Dove","Milk w Nuts",2,0
+"84",2402,3,3,"Lindt","Dark w Nuts",1.8,1
+"85",2402,4,1,"Lindt","Milk w Nuts",3.2,0
+"86",2402,4,2,"Dove","Dark w Nuts",2.5,1
+"87",2402,4,3,"Lindt","Milk",0.8,0
+"88",2402,5,1,"Godiva","Dark w Nuts",1.3,1
+"89",2402,5,2,"Godiva","Milk",1.1,0
+"90",2402,5,3,"Hersheys","Milk w Nuts",2.7,0
+"91",2402,6,1,"Lindt","Dark",0.7,1
+"92",2402,6,2,"Hersheys","White",0.6,0
+"93",2402,6,3,"Lindt","Milk w Nuts",3.3,0
+"94",2402,7,1,"Lindt","Dark",0.9,1
+"95",2402,7,2,"Lindt","White",2.9,0
+"96",2402,7,3,"Ghirardelli","Milk",0.8,0
+"97",2402,8,1,"Lindt","Milk w Nuts",2,0
+"98",2402,8,2,"Ghirardelli","Dark w Nuts",1.3,1
+"99",2402,8,3,"Lindt","Dark w Nuts",1.2,0
+"100",2402,9,1,"Lindt","Dark w Nuts",3.4,1
+"101",2402,9,2,"Dove","Dark",1.8,0
+"102",2402,9,3,"Dove","Dark w Nuts",3.1,0
+"103",2402,10,1,"Lindt","Dark",1.1,1
+"104",2402,10,2,"Hersheys","White",1.6,0
+"105",2402,10,3,"Hersheys","Milk w Nuts",3.8,0
+"106",2402,11,1,"Hersheys","Dark w Nuts",2.1,0
+"107",2402,11,2,"Dove","Dark",2.9,1
+"108",2402,11,3,"Godiva","White",1.4,0
+"109",2402,12,1,"Hersheys","White",1,0
+"110",2402,12,2,"Hersheys","Milk w Nuts",0.6,0
+"111",2402,12,3,"Dove","Milk w Nuts",2.8,1
+"112",2402,13,1,"Ghirardelli","White",0.9,0
+"113",2402,13,2,"Dove","Dark",2.5,1
+"114",2402,13,3,"Hersheys","White",1.9,0
+"115",2402,14,1,"Hersheys","Milk",1.8,0
+"116",2402,14,2,"Godiva","Dark",3.4,1
+"117",2402,14,3,"Godiva","Dark w Nuts",3.2,0
+"118",2402,15,1,"Godiva","Milk",0.7,1
+"119",2402,15,2,"Hersheys","White",0.6,0
+"120",2402,15,3,"Hersheys","Dark w Nuts",2.9,0
+"121",2402,16,1,"Hersheys","Milk w Nuts",2.3,0
+"122",2402,16,2,"Ghirardelli","Milk w Nuts",0.6,1
+"123",2402,16,3,"Hersheys","White",0.8,0
+"124",2402,17,1,"Dove","Dark",4,1
+"125",2402,17,2,"Ghirardelli","Milk",2.7,0
+"126",2402,17,3,"Dove","White",1.3,0
+"127",2402,18,1,"Dove","Milk w Nuts",2.1,0
+"128",2402,18,2,"Ghirardelli","White",1.1,0
+"129",2402,18,3,"Ghirardelli","Milk",2.5,1
+"130",2402,19,1,"Hersheys","Dark w Nuts",1.2,0
+"131",2402,19,2,"Dove","Milk",2.9,1
+"132",2402,19,3,"Ghirardelli","White",1.5,0
+"133",2402,20,1,"Godiva","Milk w Nuts",1.8,0
+"134",2402,20,2,"Hersheys","Dark",3.2,0
+"135",2402,20,3,"Lindt","Dark",0.9,1
+"136",2402,21,1,"Ghirardelli","White",1.5,0
+"137",2402,21,2,"Godiva","Milk w Nuts",2.1,0
+"138",2402,21,3,"Lindt","Dark",0.6,1
+"139",2402,22,1,"Godiva","Dark w Nuts",2.8,1
+"140",2402,22,2,"Godiva","Milk w Nuts",3.7,0
+"141",2402,22,3,"Ghirardelli","White",2.2,0
+"142",2402,23,1,"Godiva","Milk w Nuts",3.2,1
+"143",2402,23,2,"Hersheys","Dark w Nuts",4,0
+"144",2402,23,3,"Ghirardelli","White",2.4,0
+"145",2402,24,1,"Godiva","White",0.9,0
+"146",2402,24,2,"Godiva","Dark w Nuts",3.8,1
+"147",2402,24,3,"Ghirardelli","Milk w Nuts",1.8,0
+"148",2402,25,1,"Godiva","Milk w Nuts",2.3,1
+"149",2402,25,2,"Lindt","Milk w Nuts",1.3,0
+"150",2402,25,3,"Dove","Milk",2.5,0
+"151",2403,1,1,"Dove","White",1.4,0
+"152",2403,1,2,"Dove","Milk",1,1
+"153",2403,1,3,"Lindt","Milk w Nuts",2,0
+"154",2403,2,1,"Godiva","Milk",3.5,0
+"155",2403,2,2,"Ghirardelli","Milk",2.2,1
+"156",2403,2,3,"Godiva","Dark",2.2,0
+"157",2403,3,1,"Ghirardelli","Dark w Nuts",3.9,0
+"158",2403,3,2,"Hersheys","Milk",1.2,1
+"159",2403,3,3,"Godiva","Dark w Nuts",2.2,0
+"160",2403,4,1,"Godiva","Milk",1.3,1
+"161",2403,4,2,"Lindt","Dark w Nuts",0.7,0
+"162",2403,4,3,"Hersheys","Dark",3.3,0
+"163",2403,5,1,"Godiva","Dark",2.8,0
+"164",2403,5,2,"Dove","Dark w Nuts",1,1
+"165",2403,5,3,"Ghirardelli","Milk",3.5,0
+"166",2403,6,1,"Lindt","Milk w Nuts",1.3,0
+"167",2403,6,2,"Godiva","White",2.5,0
+"168",2403,6,3,"Dove","White",0.8,1
+"169",2403,7,1,"Dove","Dark",1.4,1
+"170",2403,7,2,"Lindt","Dark",2.1,0
+"171",2403,7,3,"Godiva","Dark",3.1,0
+"172",2403,8,1,"Dove","White",2.9,0
+"173",2403,8,2,"Lindt","Dark",3,0
+"174",2403,8,3,"Godiva","Milk w Nuts",2.2,1
+"175",2403,9,1,"Godiva","Dark w Nuts",1.2,1
+"176",2403,9,2,"Lindt","Dark w Nuts",2.5,0
+"177",2403,9,3,"Dove","Milk w Nuts",1.4,0
+"178",2403,10,1,"Dove","Dark w Nuts",2.5,0
+"179",2403,10,2,"Godiva","Dark w Nuts",0.9,1
+"180",2403,10,3,"Lindt","Dark w Nuts",3.2,0
+"181",2403,11,1,"Godiva","Milk w Nuts",3.7,0
+"182",2403,11,2,"Godiva","Dark",1.4,0
+"183",2403,11,3,"Dove","Milk",1.7,1
+"184",2403,12,1,"Ghirardelli","White",3.7,0
+"185",2403,12,2,"Ghirardelli","Milk",3.3,1
+"186",2403,12,3,"Dove","Dark",2.3,0
+"187",2403,13,1,"Dove","Dark",1,1
+"188",2403,13,2,"Lindt","Dark",3.8,0
+"189",2403,13,3,"Ghirardelli","Dark w Nuts",3.5,0
+"190",2403,14,1,"Lindt","Milk w Nuts",2.8,0
+"191",2403,14,2,"Hersheys","Dark w Nuts",2.8,0
+"192",2403,14,3,"Hersheys","Milk",2.6,1
+"193",2403,15,1,"Ghirardelli","Milk w Nuts",3,0
+"194",2403,15,2,"Dove","Dark",2.7,1
+"195",2403,15,3,"Ghirardelli","Dark",3,0
+"196",2403,16,1,"Dove","Milk",3,0
+"197",2403,16,2,"Dove","White",2.5,1
+"198",2403,16,3,"Godiva","Milk",3.9,0
+"199",2403,17,1,"Lindt","Dark",0.5,1
+"200",2403,17,2,"Ghirardelli","White",0.6,0
+"201",2403,17,3,"Godiva","Dark",3.4,0
+"202",2403,18,1,"Dove","Milk w Nuts",2.2,1
+"203",2403,18,2,"Dove","Dark",3.6,0
+"204",2403,18,3,"Hersheys","White",3.8,0
+"205",2403,19,1,"Dove","Dark w Nuts",2.2,1
+"206",2403,19,2,"Hersheys","Milk w Nuts",4,0
+"207",2403,19,3,"Ghirardelli","Dark",2.9,0
+"208",2403,20,1,"Godiva","Milk",3.2,0
+"209",2403,20,2,"Lindt","Dark",0.6,1
+"210",2403,20,3,"Hersheys","Dark w Nuts",2,0
+"211",2403,21,1,"Ghirardelli","White",3.4,0
+"212",2403,21,2,"Lindt","Dark",2.5,0
+"213",2403,21,3,"Godiva","White",2.5,1
+"214",2403,22,1,"Godiva","Dark w Nuts",3,0
+"215",2403,22,2,"Lindt","Dark",1.1,1
+"216",2403,22,3,"Dove","Milk",3.8,0
+"217",2403,23,1,"Hersheys","Milk",0.7,1
+"218",2403,23,2,"Hersheys","White",2.2,0
+"219",2403,23,3,"Dove","Milk w Nuts",2.7,0
+"220",2403,24,1,"Dove","Dark w Nuts",1.4,1
+"221",2403,24,2,"Ghirardelli","Milk",3.3,0
+"222",2403,24,3,"Godiva","Milk",2.2,0
+"223",2403,25,1,"Hersheys","Milk w Nuts",2.3,0
+"224",2403,25,2,"Godiva","Milk w Nuts",1.7,1
+"225",2403,25,3,"Ghirardelli","Milk w Nuts",2.7,0
+"226",2405,1,1,"Lindt","Dark w Nuts",3.9,0
+"227",2405,1,2,"Ghirardelli","Dark w Nuts",2.6,1
+"228",2405,1,3,"Godiva","Dark w Nuts",2.7,0
+"229",2405,2,1,"Lindt","Milk w Nuts",0.9,0
+"230",2405,2,2,"Hersheys","Dark w Nuts",3.3,0
+"231",2405,2,3,"Hersheys","Milk w Nuts",4,1
+"232",2405,3,1,"Hersheys","Milk",3.6,0
+"233",2405,3,2,"Dove","Milk",1.6,0
+"234",2405,3,3,"Ghirardelli","Milk w Nuts",1.7,1
+"235",2405,4,1,"Godiva","Milk w Nuts",1.4,1
+"236",2405,4,2,"Ghirardelli","White",2.4,0
+"237",2405,4,3,"Godiva","White",3.8,0
+"238",2405,5,1,"Dove","Milk w Nuts",3,1
+"239",2405,5,2,"Godiva","Dark w Nuts",2.9,0
+"240",2405,5,3,"Dove","Dark",1.6,0
+"241",2405,6,1,"Lindt","White",2.5,0
+"242",2405,6,2,"Ghirardelli","White",2.6,0
+"243",2405,6,3,"Lindt","Dark w Nuts",3.9,1
+"244",2405,7,1,"Ghirardelli","Dark w Nuts",0.7,1
+"245",2405,7,2,"Godiva","White",2.9,0
+"246",2405,7,3,"Dove","Milk",0.7,0
+"247",2405,8,1,"Hersheys","Milk w Nuts",0.6,1
+"248",2405,8,2,"Ghirardelli","Dark w Nuts",3.3,0
+"249",2405,8,3,"Godiva","White",1.1,0
+"250",2405,9,1,"Hersheys","Milk w Nuts",2.7,1
+"251",2405,9,2,"Ghirardelli","Dark w Nuts",2.3,0
+"252",2405,9,3,"Godiva","Dark",2.6,0
+"253",2405,10,1,"Lindt","Dark",2.5,0
+"254",2405,10,2,"Godiva","Dark",1.5,0
+"255",2405,10,3,"Ghirardelli","Dark w Nuts",1.4,1
+"256",2405,11,1,"Ghirardelli","White",1.5,0
+"257",2405,11,2,"Dove","Dark w Nuts",2,0
+"258",2405,11,3,"Ghirardelli","Dark",2.5,1
+"259",2405,12,1,"Ghirardelli","Milk",1.7,1
+"260",2405,12,2,"Lindt","Dark",2.5,0
+"261",2405,12,3,"Dove","Milk",0.6,0
+"262",2405,13,1,"Dove","Milk",3.3,0
+"263",2405,13,2,"Hersheys","Dark",2.8,0
+"264",2405,13,3,"Ghirardelli","Milk",1.8,1
+"265",2405,14,1,"Lindt","Dark",3.5,0
+"266",2405,14,2,"Ghirardelli","White",1.3,0
+"267",2405,14,3,"Hersheys","Milk w Nuts",0.9,1
+"268",2405,15,1,"Hersheys","Dark",2.6,0
+"269",2405,15,2,"Godiva","Dark",3.9,1
+"270",2405,15,3,"Hersheys","White",2.9,0
+"271",2405,16,1,"Ghirardelli","Milk w Nuts",1.1,1
+"272",2405,16,2,"Ghirardelli","Dark",1.9,0
+"273",2405,16,3,"Godiva","Milk w Nuts",2.1,0
+"274",2405,17,1,"Ghirardelli","White",2.9,0
+"275",2405,17,2,"Godiva","Milk",2.4,1
+"276",2405,17,3,"Hersheys","Milk w Nuts",3.9,0
+"277",2405,18,1,"Godiva","White",3.4,0
+"278",2405,18,2,"Ghirardelli","Dark",3.9,1
+"279",2405,18,3,"Hersheys","White",1.9,0
+"280",2405,19,1,"Hersheys","Milk w Nuts",2.9,1
+"281",2405,19,2,"Dove","Dark",3.4,0
+"282",2405,19,3,"Hersheys","Milk",1.3,0
+"283",2405,20,1,"Lindt","Dark w Nuts",3.5,0
+"284",2405,20,2,"Dove","Milk",3.4,1
+"285",2405,20,3,"Lindt","Dark",0.7,0
+"286",2405,21,1,"Hersheys","Milk",3,0
+"287",2405,21,2,"Hersheys","Dark",1.8,0
+"288",2405,21,3,"Ghirardelli","Milk",3.5,1
+"289",2405,22,1,"Godiva","Dark w Nuts",1.6,1
+"290",2405,22,2,"Dove","Dark w Nuts",1.8,0
+"291",2405,22,3,"Lindt","Dark w Nuts",3.6,0
+"292",2405,23,1,"Godiva","White",1.5,0
+"293",2405,23,2,"Hersheys","White",1.3,0
+"294",2405,23,3,"Godiva","Milk w Nuts",0.6,1
+"295",2405,24,1,"Ghirardelli","Dark",2.5,1
+"296",2405,24,2,"Ghirardelli","Dark w Nuts",0.8,0
+"297",2405,24,3,"Lindt","White",2.1,0
+"298",2405,25,1,"Lindt","White",3.6,0
+"299",2405,25,2,"Hersheys","White",2.5,0
+"300",2405,25,3,"Ghirardelli","Dark w Nuts",2,1
+"301",2407,1,1,"Ghirardelli","Dark",3,0
+"302",2407,1,2,"Lindt","White",2.5,0
+"303",2407,1,3,"Hersheys","Dark w Nuts",2.4,1
+"304",2407,2,1,"Ghirardelli","Milk",2,1
+"305",2407,2,2,"Lindt","White",2.9,0
+"306",2407,2,3,"Godiva","White",1.9,0
+"307",2407,3,1,"Lindt","Milk",2.3,0
+"308",2407,3,2,"Hersheys","Dark",0.6,1
+"309",2407,3,3,"Godiva","White",0.9,0
+"310",2407,4,1,"Hersheys","White",1.3,0
+"311",2407,4,2,"Dove","Dark",1.3,0
+"312",2407,4,3,"Lindt","Dark w Nuts",3,1
+"313",2407,5,1,"Dove","Milk",3.7,0
+"314",2407,5,2,"Hersheys","Milk w Nuts",3.6,1
+"315",2407,5,3,"Lindt","White",3.6,0
+"316",2407,6,1,"Lindt","White",4,0
+"317",2407,6,2,"Dove","White",2.5,0
+"318",2407,6,3,"Lindt","Milk w Nuts",0.8,1
+"319",2407,7,1,"Godiva","Milk",2.5,0
+"320",2407,7,2,"Dove","Dark w Nuts",2.4,1
+"321",2407,7,3,"Dove","White",2.3,0
+"322",2407,8,1,"Hersheys","Dark w Nuts",2.4,1
+"323",2407,8,2,"Hersheys","White",1.8,0
+"324",2407,8,3,"Godiva","Milk",3.7,0
+"325",2407,9,1,"Dove","Milk",3.9,0
+"326",2407,9,2,"Dove","Dark",1.9,0
+"327",2407,9,3,"Ghirardelli","Milk w Nuts",1.8,1
+"328",2407,10,1,"Lindt","Milk",3.7,0
+"329",2407,10,2,"Dove","Milk",1.1,0
+"330",2407,10,3,"Hersheys","Milk",1,1
+"331",2407,11,1,"Godiva","Dark",3.3,0
+"332",2407,11,2,"Hersheys","Dark",3.3,0
+"333",2407,11,3,"Ghirardelli","Dark w Nuts",0.6,1
+"334",2407,12,1,"Godiva","Milk",1.6,0
+"335",2407,12,2,"Ghirardelli","Dark w Nuts",1.1,1
+"336",2407,12,3,"Lindt","Milk",1.3,0
+"337",2407,13,1,"Lindt","Dark",2,1
+"338",2407,13,2,"Ghirardelli","White",3.5,0
+"339",2407,13,3,"Lindt","Milk w Nuts",3.7,0
+"340",2407,14,1,"Lindt","Milk w Nuts",1.9,0
+"341",2407,14,2,"Godiva","Dark",3,0
+"342",2407,14,3,"Hersheys","Dark",0.6,1
+"343",2407,15,1,"Dove","Milk w Nuts",3,0
+"344",2407,15,2,"Ghirardelli","Dark w Nuts",1.2,0
+"345",2407,15,3,"Godiva","White",1.1,1
+"346",2407,16,1,"Lindt","Milk w Nuts",3.3,0
+"347",2407,16,2,"Ghirardelli","Dark w Nuts",1.6,1
+"348",2407,16,3,"Dove","Dark w Nuts",1.4,0
+"349",2407,17,1,"Lindt","Dark w Nuts",3.3,0
+"350",2407,17,2,"Lindt","Milk",2.8,0
+"351",2407,17,3,"Godiva","Milk",0.9,1
+"352",2407,18,1,"Lindt","Dark",0.8,1
+"353",2407,18,2,"Hersheys","Milk",3.5,0
+"354",2407,18,3,"Hersheys","Dark w Nuts",2,0
+"355",2407,19,1,"Godiva","Dark",3.3,0
+"356",2407,19,2,"Dove","Milk w Nuts",3.1,0
+"357",2407,19,3,"Ghirardelli","Dark w Nuts",2.9,1
+"358",2407,20,1,"Lindt","Dark w Nuts",1.2,0
+"359",2407,20,2,"Lindt","White",1.5,0
+"360",2407,20,3,"Dove","Dark",0.9,1
+"361",2407,21,1,"Hersheys","White",2.2,1
+"362",2407,21,2,"Lindt","Dark w Nuts",3.3,0
+"363",2407,21,3,"Hersheys","Milk",1.9,0
+"364",2407,22,1,"Dove","Milk",3.4,0
+"365",2407,22,2,"Ghirardelli","Dark",3.3,1
+"366",2407,22,3,"Hersheys","Dark",3.8,0
+"367",2407,23,1,"Ghirardelli","Milk w Nuts",1.5,1
+"368",2407,23,2,"Hersheys","Dark",2.8,0
+"369",2407,23,3,"Hersheys","Milk w Nuts",2.5,0
+"370",2407,24,1,"Godiva","White",0.5,1
+"371",2407,24,2,"Ghirardelli","Dark w Nuts",1.1,0
+"372",2407,24,3,"Ghirardelli","Dark",1.4,0
+"373",2407,25,1,"Godiva","Milk",0.9,0
+"374",2407,25,2,"Lindt","Dark",2.2,0
+"375",2407,25,3,"Ghirardelli","Dark w Nuts",1,1
+"376",2408,1,1,"Ghirardelli","White",3.8,1
+"377",2408,1,2,"Dove","White",2,0
+"378",2408,1,3,"Dove","Dark w Nuts",2.2,0
+"379",2408,2,1,"Ghirardelli","Milk w Nuts",0.8,0
+"380",2408,2,2,"Godiva","Milk w Nuts",2.7,0
+"381",2408,2,3,"Dove","Milk",0.9,1
+"382",2408,3,1,"Dove","Milk w Nuts",2.6,0
+"383",2408,3,2,"Hersheys","Milk",1.5,1
+"384",2408,3,3,"Lindt","White",3.4,0
+"385",2408,4,1,"Ghirardelli","Dark",2.9,1
+"386",2408,4,2,"Lindt","Milk w Nuts",0.5,0
+"387",2408,4,3,"Godiva","Milk w Nuts",1.5,0
+"388",2408,5,1,"Dove","Milk",3.9,0
+"389",2408,5,2,"Ghirardelli","Dark w Nuts",1.5,0
+"390",2408,5,3,"Godiva","Milk",1.1,1
+"391",2408,6,1,"Godiva","Milk w Nuts",1.5,0
+"392",2408,6,2,"Ghirardelli","Milk",1.4,1
+"393",2408,6,3,"Hersheys","White",2.5,0
+"394",2408,7,1,"Godiva","Milk w Nuts",2.6,1
+"395",2408,7,2,"Hersheys","White",3.4,0
+"396",2408,7,3,"Ghirardelli","Dark w Nuts",1.4,0
+"397",2408,8,1,"Godiva","White",0.8,0
+"398",2408,8,2,"Ghirardelli","Milk w Nuts",1.1,0
+"399",2408,8,3,"Godiva","Dark",0.5,1
+"400",2408,9,1,"Hersheys","Dark w Nuts",0.6,0
+"401",2408,9,2,"Godiva","Milk",2.2,1
+"402",2408,9,3,"Dove","Dark w Nuts",1.1,0
+"403",2408,10,1,"Ghirardelli","Dark w Nuts",3.2,0
+"404",2408,10,2,"Godiva","Milk",2.4,1
+"405",2408,10,3,"Dove","White",2.9,0
+"406",2408,11,1,"Godiva","Dark",4,0
+"407",2408,11,2,"Hersheys","Milk w Nuts",3.5,0
+"408",2408,11,3,"Dove","Dark",2.5,1
+"409",2408,12,1,"Lindt","Milk w Nuts",2,0
+"410",2408,12,2,"Godiva","Milk",3,1
+"411",2408,12,3,"Lindt","Dark w Nuts",1,0
+"412",2408,13,1,"Lindt","Milk w Nuts",3.2,1
+"413",2408,13,2,"Lindt","Dark w Nuts",1.1,0
+"414",2408,13,3,"Godiva","Milk w Nuts",1,0
+"415",2408,14,1,"Godiva","Milk",1.3,1
+"416",2408,14,2,"Godiva","Milk w Nuts",2,0
+"417",2408,14,3,"Dove","Dark w Nuts",1.3,0
+"418",2408,15,1,"Hersheys","White",3.1,0
+"419",2408,15,2,"Ghirardelli","Milk w Nuts",3.7,0
+"420",2408,15,3,"Lindt","Milk",3.6,1
+"421",2408,16,1,"Lindt","Dark w Nuts",1,0
+"422",2408,16,2,"Hersheys","White",4,0
+"423",2408,16,3,"Lindt","Dark",0.5,1
+"424",2408,17,1,"Godiva","White",2.5,0
+"425",2408,17,2,"Dove","Dark",3.5,0
+"426",2408,17,3,"Ghirardelli","Milk",2.3,1
+"427",2408,18,1,"Godiva","White",1,1
+"428",2408,18,2,"Lindt","Dark w Nuts",3.3,0
+"429",2408,18,3,"Ghirardelli","Dark w Nuts",2.4,0
+"430",2408,19,1,"Ghirardelli","Milk w Nuts",0.8,1
+"431",2408,19,2,"Hersheys","Dark w Nuts",1.6,0
+"432",2408,19,3,"Godiva","Dark w Nuts",1.1,0
+"433",2408,20,1,"Dove","Milk w Nuts",3.2,0
+"434",2408,20,2,"Lindt","Dark w Nuts",2.2,0
+"435",2408,20,3,"Hersheys","Dark",3,1
+"436",2408,21,1,"Dove","Dark w Nuts",1.3,0
+"437",2408,21,2,"Godiva","Dark",1.7,1
+"438",2408,21,3,"Dove","White",2.4,0
+"439",2408,22,1,"Dove","Milk",3.5,1
+"440",2408,22,2,"Ghirardelli","Milk",2.3,0
+"441",2408,22,3,"Ghirardelli","Dark w Nuts",3.5,0
+"442",2408,23,1,"Godiva","White",0.9,0
+"443",2408,23,2,"Dove","Dark",3,0
+"444",2408,23,3,"Ghirardelli","Dark",0.6,1
+"445",2408,24,1,"Lindt","Dark",1.2,0
+"446",2408,24,2,"Godiva","Milk",1.1,1
+"447",2408,24,3,"Dove","Dark w Nuts",1.4,0
+"448",2408,25,1,"Lindt","Milk w Nuts",3.8,0
+"449",2408,25,2,"Godiva","Milk w Nuts",0.9,0
+"450",2408,25,3,"Ghirardelli","White",0.7,1
+"451",2409,1,1,"Dove","Milk",0.6,0
+"452",2409,1,2,"Godiva","Dark",0.7,1
+"453",2409,1,3,"Dove","White",3.6,0
+"454",2409,2,1,"Godiva","Milk w Nuts",2.7,0
+"455",2409,2,2,"Godiva","Dark",3.9,1
+"456",2409,2,3,"Hersheys","Milk w Nuts",0.7,0
+"457",2409,3,1,"Hersheys","Dark w Nuts",1.7,0
+"458",2409,3,2,"Godiva","Dark",3.7,1
+"459",2409,3,3,"Hersheys","Dark",3,0
+"460",2409,4,1,"Lindt","Milk",1,1
+"461",2409,4,2,"Lindt","Milk w Nuts",3.6,0
+"462",2409,4,3,"Ghirardelli","Dark w Nuts",0.5,0
+"463",2409,5,1,"Hersheys","Milk w Nuts",0.8,0
+"464",2409,5,2,"Godiva","Dark",1.5,1
+"465",2409,5,3,"Hersheys","White",3.3,0
+"466",2409,6,1,"Lindt","Milk",3.1,0
+"467",2409,6,2,"Dove","White",2.5,0
+"468",2409,6,3,"Godiva","Dark",2.6,1
+"469",2409,7,1,"Godiva","White",3.1,1
+"470",2409,7,2,"Dove","Dark w Nuts",4,0
+"471",2409,7,3,"Godiva","Milk",2.1,0
+"472",2409,8,1,"Hersheys","Dark w Nuts",0.8,0
+"473",2409,8,2,"Godiva","White",3.2,0
+"474",2409,8,3,"Godiva","Dark",1.1,1
+"475",2409,9,1,"Lindt","Dark",2.3,0
+"476",2409,9,2,"Godiva","Dark",1.7,1
+"477",2409,9,3,"Godiva","White",3.8,0
+"478",2409,10,1,"Lindt","Milk w Nuts",0.6,0
+"479",2409,10,2,"Godiva","Milk w Nuts",0.8,0
+"480",2409,10,3,"Hersheys","Dark",3.7,1
+"481",2409,11,1,"Godiva","Milk",1.6,1
+"482",2409,11,2,"Dove","White",0.7,0
+"483",2409,11,3,"Hersheys","Dark w Nuts",1.2,0
+"484",2409,12,1,"Godiva","Dark w Nuts",1.1,0
+"485",2409,12,2,"Dove","Dark w Nuts",0.8,0
+"486",2409,12,3,"Lindt","Dark",3.7,1
+"487",2409,13,1,"Dove","Milk",3,0
+"488",2409,13,2,"Lindt","White",0.8,0
+"489",2409,13,3,"Godiva","White",1.9,1
+"490",2409,14,1,"Lindt","Dark w Nuts",0.6,0
+"491",2409,14,2,"Dove","Milk",3.5,1
+"492",2409,14,3,"Dove","Milk w Nuts",1.9,0
+"493",2409,15,1,"Godiva","Dark",3.7,0
+"494",2409,15,2,"Ghirardelli","Dark",1.5,1
+"495",2409,15,3,"Dove","Dark",1.6,0
+"496",2409,16,1,"Hersheys","Milk w Nuts",0.5,0
+"497",2409,16,2,"Dove","Milk",3.8,1
+"498",2409,16,3,"Dove","Dark w Nuts",3.7,0
+"499",2409,17,1,"Dove","Milk",3.9,1
+"500",2409,17,2,"Dove","Milk w Nuts",1.2,0
+"501",2409,17,3,"Lindt","Milk w Nuts",0.5,0
+"502",2409,18,1,"Godiva","Milk w Nuts",2.8,0
+"503",2409,18,2,"Lindt","Milk",2.7,0
+"504",2409,18,3,"Godiva","White",2.6,1
+"505",2409,19,1,"Hersheys","Milk",3.7,0
+"506",2409,19,2,"Dove","Dark w Nuts",4,0
+"507",2409,19,3,"Dove","Dark",2.8,1
+"508",2409,20,1,"Dove","Dark",0.7,1
+"509",2409,20,2,"Godiva","White",0.8,0
+"510",2409,20,3,"Hersheys","Dark",1.9,0
+"511",2409,21,1,"Ghirardelli","Milk w Nuts",0.8,0
+"512",2409,21,2,"Hersheys","Milk",3,1
+"513",2409,21,3,"Godiva","Milk w Nuts",2.4,0
+"514",2409,22,1,"Godiva","Dark",0.9,1
+"515",2409,22,2,"Dove","Milk w Nuts",3.4,0
+"516",2409,22,3,"Hersheys","Dark w Nuts",3.4,0
+"517",2409,23,1,"Godiva","Dark w Nuts",0.6,0
+"518",2409,23,2,"Dove","White",1.8,0
+"519",2409,23,3,"Dove","Dark",3.4,1
+"520",2409,24,1,"Hersheys","Dark w Nuts",3.6,0
+"521",2409,24,2,"Godiva","Milk w Nuts",3.2,0
+"522",2409,24,3,"Ghirardelli","Milk w Nuts",1.4,1
+"523",2409,25,1,"Lindt","White",1.1,0
+"524",2409,25,2,"Ghirardelli","White",0.8,1
+"525",2409,25,3,"Lindt","Milk",2,0
+"526",2410,1,1,"Dove","White",1.4,0
+"527",2410,1,2,"Dove","Milk",1,1
+"528",2410,1,3,"Lindt","Milk w Nuts",2,0
+"529",2410,2,1,"Godiva","Milk",3.5,1
+"530",2410,2,2,"Ghirardelli","Milk",2.2,0
+"531",2410,2,3,"Godiva","Dark",2.2,0
+"532",2410,3,1,"Ghirardelli","Dark w Nuts",3.9,0
+"533",2410,3,2,"Hersheys","Milk",1.2,1
+"534",2410,3,3,"Godiva","Dark w Nuts",2.2,0
+"535",2410,4,1,"Godiva","Milk",1.3,1
+"536",2410,4,2,"Lindt","Dark w Nuts",0.7,0
+"537",2410,4,3,"Hersheys","Dark",3.3,0
+"538",2410,5,1,"Godiva","Dark",2.8,0
+"539",2410,5,2,"Dove","Dark w Nuts",1,0
+"540",2410,5,3,"Ghirardelli","Milk",3.5,1
+"541",2410,6,1,"Lindt","Milk w Nuts",1.3,0
+"542",2410,6,2,"Godiva","White",2.5,1
+"543",2410,6,3,"Dove","White",0.8,0
+"544",2410,7,1,"Dove","Dark",1.4,1
+"545",2410,7,2,"Lindt","Dark",2.1,0
+"546",2410,7,3,"Godiva","Dark",3.1,0
+"547",2410,8,1,"Dove","White",2.9,1
+"548",2410,8,2,"Lindt","Dark",3,0
+"549",2410,8,3,"Godiva","Milk w Nuts",2.2,0
+"550",2410,9,1,"Godiva","Dark w Nuts",1.2,0
+"551",2410,9,2,"Lindt","Dark w Nuts",2.5,0
+"552",2410,9,3,"Dove","Milk w Nuts",1.4,1
+"553",2410,10,1,"Dove","Dark w Nuts",2.5,0
+"554",2410,10,2,"Godiva","Dark w Nuts",0.9,1
+"555",2410,10,3,"Lindt","Dark w Nuts",3.2,0
+"556",2410,11,1,"Godiva","Milk w Nuts",3.7,0
+"557",2410,11,2,"Godiva","Dark",1.4,0
+"558",2410,11,3,"Dove","Milk",1.7,1
+"559",2410,12,1,"Ghirardelli","White",3.7,0
+"560",2410,12,2,"Ghirardelli","Milk",3.3,1
+"561",2410,12,3,"Dove","Dark",2.3,0
+"562",2410,13,1,"Dove","Dark",1,1
+"563",2410,13,2,"Lindt","Dark",3.8,0
+"564",2410,13,3,"Ghirardelli","Dark w Nuts",3.5,0
+"565",2410,14,1,"Lindt","Milk w Nuts",2.8,0
+"566",2410,14,2,"Hersheys","Dark w Nuts",2.8,0
+"567",2410,14,3,"Hersheys","Milk",2.6,1
+"568",2410,15,1,"Ghirardelli","Milk w Nuts",3,1
+"569",2410,15,2,"Dove","Dark",2.7,0
+"570",2410,15,3,"Ghirardelli","Dark",3,0
+"571",2410,16,1,"Dove","Milk",3,1
+"572",2410,16,2,"Dove","White",2.5,0
+"573",2410,16,3,"Godiva","Milk",3.9,0
+"574",2410,17,1,"Lindt","Dark",0.5,0
+"575",2410,17,2,"Ghirardelli","White",0.6,1
+"576",2410,17,3,"Godiva","Dark",3.4,0
+"577",2410,18,1,"Dove","Milk w Nuts",2.2,1
+"578",2410,18,2,"Dove","Dark",3.6,0
+"579",2410,18,3,"Hersheys","White",3.8,0
+"580",2410,19,1,"Dove","Dark w Nuts",2.2,0
+"581",2410,19,2,"Hersheys","Milk w Nuts",4,1
+"582",2410,19,3,"Ghirardelli","Dark",2.9,0
+"583",2410,20,1,"Godiva","Milk",3.2,1
+"584",2410,20,2,"Lindt","Dark",0.6,0
+"585",2410,20,3,"Hersheys","Dark w Nuts",2,0
+"586",2410,21,1,"Ghirardelli","White",3.4,0
+"587",2410,21,2,"Lindt","Dark",2.5,0
+"588",2410,21,3,"Godiva","White",2.5,1
+"589",2410,22,1,"Godiva","Dark w Nuts",3,0
+"590",2410,22,2,"Lindt","Dark",1.1,1
+"591",2410,22,3,"Dove","Milk",3.8,0
+"592",2410,23,1,"Hersheys","Milk",0.7,1
+"593",2410,23,2,"Hersheys","White",2.2,0
+"594",2410,23,3,"Dove","Milk w Nuts",2.7,0
+"595",2410,24,1,"Dove","Dark w Nuts",1.4,0
+"596",2410,24,2,"Ghirardelli","Milk",3.3,0
+"597",2410,24,3,"Godiva","Milk",2.2,1
+"598",2410,25,1,"Hersheys","Milk w Nuts",2.3,0
+"599",2410,25,2,"Godiva","Milk w Nuts",1.7,1
+"600",2410,25,3,"Ghirardelli","Milk w Nuts",2.7,0
+"601",2411,1,1,"Hersheys","Milk",2.2,0
+"602",2411,1,2,"Godiva","Dark w Nuts",2.1,1
+"603",2411,1,3,"Dove","Milk",3.5,0
+"604",2411,2,1,"Ghirardelli","Milk w Nuts",1.3,1
+"605",2411,2,2,"Hersheys","White",1.7,0
+"606",2411,2,3,"Hersheys","Milk",3.5,0
+"607",2411,3,1,"Ghirardelli","Milk w Nuts",1.6,1
+"608",2411,3,2,"Dove","Milk w Nuts",2,0
+"609",2411,3,3,"Lindt","Dark w Nuts",1.8,0
+"610",2411,4,1,"Lindt","Milk w Nuts",3.2,0
+"611",2411,4,2,"Dove","Dark w Nuts",2.5,0
+"612",2411,4,3,"Lindt","Milk",0.8,1
+"613",2411,5,1,"Godiva","Dark w Nuts",1.3,1
+"614",2411,5,2,"Godiva","Milk",1.1,0
+"615",2411,5,3,"Hersheys","Milk w Nuts",2.7,0
+"616",2411,6,1,"Lindt","Dark",0.7,0
+"617",2411,6,2,"Hersheys","White",0.6,0
+"618",2411,6,3,"Lindt","Milk w Nuts",3.3,1
+"619",2411,7,1,"Lindt","Dark",0.9,0
+"620",2411,7,2,"Lindt","White",2.9,0
+"621",2411,7,3,"Ghirardelli","Milk",0.8,1
+"622",2411,8,1,"Lindt","Milk w Nuts",2,0
+"623",2411,8,2,"Ghirardelli","Dark w Nuts",1.3,1
+"624",2411,8,3,"Lindt","Dark w Nuts",1.2,0
+"625",2411,9,1,"Lindt","Dark w Nuts",3.4,1
+"626",2411,9,2,"Dove","Dark",1.8,0
+"627",2411,9,3,"Dove","Dark w Nuts",3.1,0
+"628",2411,10,1,"Lindt","Dark",1.1,0
+"629",2411,10,2,"Hersheys","White",1.6,0
+"630",2411,10,3,"Hersheys","Milk w Nuts",3.8,1
+"631",2411,11,1,"Hersheys","Dark w Nuts",2.1,1
+"632",2411,11,2,"Dove","Dark",2.9,0
+"633",2411,11,3,"Godiva","White",1.4,0
+"634",2411,12,1,"Hersheys","White",1,0
+"635",2411,12,2,"Hersheys","Milk w Nuts",0.6,1
+"636",2411,12,3,"Dove","Milk w Nuts",2.8,0
+"637",2411,13,1,"Ghirardelli","White",0.9,0
+"638",2411,13,2,"Dove","Dark",2.5,1
+"639",2411,13,3,"Hersheys","White",1.9,0
+"640",2411,14,1,"Hersheys","Milk",1.8,1
+"641",2411,14,2,"Godiva","Dark",3.4,0
+"642",2411,14,3,"Godiva","Dark w Nuts",3.2,0
+"643",2411,15,1,"Godiva","Milk",0.7,1
+"644",2411,15,2,"Hersheys","White",0.6,0
+"645",2411,15,3,"Hersheys","Dark w Nuts",2.9,0
+"646",2411,16,1,"Hersheys","Milk w Nuts",2.3,0
+"647",2411,16,2,"Ghirardelli","Milk w Nuts",0.6,1
+"648",2411,16,3,"Hersheys","White",0.8,0
+"649",2411,17,1,"Dove","Dark",4,0
+"650",2411,17,2,"Ghirardelli","Milk",2.7,1
+"651",2411,17,3,"Dove","White",1.3,0
+"652",2411,18,1,"Dove","Milk w Nuts",2.1,0
+"653",2411,18,2,"Ghirardelli","White",1.1,0
+"654",2411,18,3,"Ghirardelli","Milk",2.5,1
+"655",2411,19,1,"Hersheys","Dark w Nuts",1.2,1
+"656",2411,19,2,"Dove","Milk",2.9,0
+"657",2411,19,3,"Ghirardelli","White",1.5,0
+"658",2411,20,1,"Godiva","Milk w Nuts",1.8,1
+"659",2411,20,2,"Hersheys","Dark",3.2,0
+"660",2411,20,3,"Lindt","Dark",0.9,0
+"661",2411,21,1,"Ghirardelli","White",1.5,0
+"662",2411,21,2,"Godiva","Milk w Nuts",2.1,1
+"663",2411,21,3,"Lindt","Dark",0.6,0
+"664",2411,22,1,"Godiva","Dark w Nuts",2.8,1
+"665",2411,22,2,"Godiva","Milk w Nuts",3.7,0
+"666",2411,22,3,"Ghirardelli","White",2.2,0
+"667",2411,23,1,"Godiva","Milk w Nuts",3.2,1
+"668",2411,23,2,"Hersheys","Dark w Nuts",4,0
+"669",2411,23,3,"Ghirardelli","White",2.4,0
+"670",2411,24,1,"Godiva","White",0.9,0
+"671",2411,24,2,"Godiva","Dark w Nuts",3.8,0
+"672",2411,24,3,"Ghirardelli","Milk w Nuts",1.8,1
+"673",2411,25,1,"Godiva","Milk w Nuts",2.3,0
+"674",2411,25,2,"Lindt","Milk w Nuts",1.3,1
+"675",2411,25,3,"Dove","Milk",2.5,0
+"676",2412,1,1,"Hersheys","White",1.8,0
+"677",2412,1,2,"Hersheys","Milk w Nuts",2.6,0
+"678",2412,1,3,"Lindt","Milk w Nuts",0.5,1
+"679",2412,2,1,"Hersheys","Milk w Nuts",1.9,0
+"680",2412,2,2,"Godiva","Milk w Nuts",3.4,0
+"681",2412,2,3,"Lindt","Dark",2.6,1
+"682",2412,3,1,"Ghirardelli","White",2.7,0
+"683",2412,3,2,"Lindt","Milk",1,0
+"684",2412,3,3,"Godiva","Dark w Nuts",1.7,1
+"685",2412,4,1,"Hersheys","Milk",0.9,0
+"686",2412,4,2,"Hersheys","Dark",0.9,1
+"687",2412,4,3,"Dove","White",0.8,0
+"688",2412,5,1,"Lindt","Dark",3.3,0
+"689",2412,5,2,"Ghirardelli","Dark w Nuts",3.5,1
+"690",2412,5,3,"Godiva","Dark w Nuts",1.3,0
+"691",2412,6,1,"Dove","Dark w Nuts",3.5,1
+"692",2412,6,2,"Hersheys","Dark",3.2,0
+"693",2412,6,3,"Dove","White",3.9,0
+"694",2412,7,1,"Ghirardelli","Milk",0.6,1
+"695",2412,7,2,"Godiva","Milk",0.5,0
+"696",2412,7,3,"Lindt","White",3.8,0
+"697",2412,8,1,"Lindt","Dark",1.4,1
+"698",2412,8,2,"Hersheys","Milk",1.2,0
+"699",2412,8,3,"Dove","Milk",3.1,0
+"700",2412,9,1,"Ghirardelli","Milk",1.3,0
+"701",2412,9,2,"Dove","Milk",1.5,0
+"702",2412,9,3,"Dove","Dark",2.7,1
+"703",2412,10,1,"Ghirardelli","White",3.8,0
+"704",2412,10,2,"Ghirardelli","Dark w Nuts",3.4,1
+"705",2412,10,3,"Hersheys","Dark",1.7,0
+"706",2412,11,1,"Hersheys","Dark",0.6,0
+"707",2412,11,2,"Lindt","Dark w Nuts",2.7,1
+"708",2412,11,3,"Lindt","Milk w Nuts",0.9,0
+"709",2412,12,1,"Ghirardelli","Dark w Nuts",3,1
+"710",2412,12,2,"Godiva","White",1.1,0
+"711",2412,12,3,"Hersheys","Dark",0.7,0
+"712",2412,13,1,"Lindt","Dark",1.5,0
+"713",2412,13,2,"Hersheys","Dark",0.5,1
+"714",2412,13,3,"Ghirardelli","Milk w Nuts",3.1,0
+"715",2412,14,1,"Hersheys","Dark w Nuts",1,0
+"716",2412,14,2,"Dove","Milk w Nuts",0.8,0
+"717",2412,14,3,"Lindt","Milk w Nuts",1,1
+"718",2412,15,1,"Lindt","White",2.2,0
+"719",2412,15,2,"Ghirardelli","White",0.6,1
+"720",2412,15,3,"Hersheys","White",3.7,0
+"721",2412,16,1,"Hersheys","Dark",1.4,1
+"722",2412,16,2,"Hersheys","Milk w Nuts",2.4,0
+"723",2412,16,3,"Godiva","White",3.4,0
+"724",2412,17,1,"Ghirardelli","Dark w Nuts",2.3,1
+"725",2412,17,2,"Ghirardelli","Milk",1.6,0
+"726",2412,17,3,"Godiva","Dark w Nuts",2.6,0
+"727",2412,18,1,"Dove","Dark w Nuts",1.3,1
+"728",2412,18,2,"Hersheys","White",1.5,0
+"729",2412,18,3,"Dove","Dark",3,0
+"730",2412,19,1,"Hersheys","Milk",1,0
+"731",2412,19,2,"Hersheys","Dark",2.5,0
+"732",2412,19,3,"Dove","Dark",0.5,1
+"733",2412,20,1,"Ghirardelli","Milk",1,0
+"734",2412,20,2,"Ghirardelli","Milk w Nuts",1,1
+"735",2412,20,3,"Hersheys","Milk w Nuts",3.5,0
+"736",2412,21,1,"Dove","White",2.4,0
+"737",2412,21,2,"Hersheys","White",2.4,0
+"738",2412,21,3,"Lindt","Dark w Nuts",1.2,1
+"739",2412,22,1,"Dove","Dark w Nuts",0.7,1
+"740",2412,22,2,"Lindt","Milk w Nuts",3.2,0
+"741",2412,22,3,"Godiva","Milk w Nuts",2.9,0
+"742",2412,23,1,"Ghirardelli","Dark",3.5,1
+"743",2412,23,2,"Dove","Dark",2.8,0
+"744",2412,23,3,"Godiva","White",2.3,0
+"745",2412,24,1,"Ghirardelli","White",1.4,0
+"746",2412,24,2,"Lindt","Milk w Nuts",1.7,1
+"747",2412,24,3,"Lindt","Milk",3.9,0
+"748",2412,25,1,"Dove","Dark",3.6,0
+"749",2412,25,2,"Ghirardelli","Dark",3,1
+"750",2412,25,3,"Hersheys","Milk w Nuts",3.1,0
+"751",2413,1,1,"Lindt","Dark w Nuts",3.9,1
+"752",2413,1,2,"Ghirardelli","Dark w Nuts",2.6,0
+"753",2413,1,3,"Godiva","Dark w Nuts",2.7,0
+"754",2413,2,1,"Lindt","Milk w Nuts",0.9,1
+"755",2413,2,2,"Hersheys","Dark w Nuts",3.3,0
+"756",2413,2,3,"Hersheys","Milk w Nuts",4,0
+"757",2413,3,1,"Hersheys","Milk",3.6,0
+"758",2413,3,2,"Dove","Milk",1.6,0
+"759",2413,3,3,"Ghirardelli","Milk w Nuts",1.7,1
+"760",2413,4,1,"Godiva","Milk w Nuts",1.4,1
+"761",2413,4,2,"Ghirardelli","White",2.4,0
+"762",2413,4,3,"Godiva","White",3.8,0
+"763",2413,5,1,"Dove","Milk w Nuts",3,1
+"764",2413,5,2,"Godiva","Dark w Nuts",2.9,0
+"765",2413,5,3,"Dove","Dark",1.6,0
+"766",2413,6,1,"Lindt","White",2.5,1
+"767",2413,6,2,"Ghirardelli","White",2.6,0
+"768",2413,6,3,"Lindt","Dark w Nuts",3.9,0
+"769",2413,7,1,"Ghirardelli","Dark w Nuts",0.7,1
+"770",2413,7,2,"Godiva","White",2.9,0
+"771",2413,7,3,"Dove","Milk",0.7,0
+"772",2413,8,1,"Hersheys","Milk w Nuts",0.6,1
+"773",2413,8,2,"Ghirardelli","Dark w Nuts",3.3,0
+"774",2413,8,3,"Godiva","White",1.1,0
+"775",2413,9,1,"Hersheys","Milk w Nuts",2.7,0
+"776",2413,9,2,"Ghirardelli","Dark w Nuts",2.3,1
+"777",2413,9,3,"Godiva","Dark",2.6,0
+"778",2413,10,1,"Lindt","Dark",2.5,0
+"779",2413,10,2,"Godiva","Dark",1.5,0
+"780",2413,10,3,"Ghirardelli","Dark w Nuts",1.4,1
+"781",2413,11,1,"Ghirardelli","White",1.5,0
+"782",2413,11,2,"Dove","Dark w Nuts",2,1
+"783",2413,11,3,"Ghirardelli","Dark",2.5,0
+"784",2413,12,1,"Ghirardelli","Milk",1.7,0
+"785",2413,12,2,"Lindt","Dark",2.5,0
+"786",2413,12,3,"Dove","Milk",0.6,1
+"787",2413,13,1,"Dove","Milk",3.3,0
+"788",2413,13,2,"Hersheys","Dark",2.8,0
+"789",2413,13,3,"Ghirardelli","Milk",1.8,1
+"790",2413,14,1,"Lindt","Dark",3.5,0
+"791",2413,14,2,"Ghirardelli","White",1.3,1
+"792",2413,14,3,"Hersheys","Milk w Nuts",0.9,0
+"793",2413,15,1,"Hersheys","Dark",2.6,0
+"794",2413,15,2,"Godiva","Dark",3.9,0
+"795",2413,15,3,"Hersheys","White",2.9,1
+"796",2413,16,1,"Ghirardelli","Milk w Nuts",1.1,0
+"797",2413,16,2,"Ghirardelli","Dark",1.9,0
+"798",2413,16,3,"Godiva","Milk w Nuts",2.1,1
+"799",2413,17,1,"Ghirardelli","White",2.9,0
+"800",2413,17,2,"Godiva","Milk",2.4,1
+"801",2413,17,3,"Hersheys","Milk w Nuts",3.9,0
+"802",2413,18,1,"Godiva","White",3.4,0
+"803",2413,18,2,"Ghirardelli","Dark",3.9,0
+"804",2413,18,3,"Hersheys","White",1.9,1
+"805",2413,19,1,"Hersheys","Milk w Nuts",2.9,1
+"806",2413,19,2,"Dove","Dark",3.4,0
+"807",2413,19,3,"Hersheys","Milk",1.3,0
+"808",2413,20,1,"Lindt","Dark w Nuts",3.5,0
+"809",2413,20,2,"Dove","Milk",3.4,1
+"810",2413,20,3,"Lindt","Dark",0.7,0
+"811",2413,21,1,"Hersheys","Milk",3,0
+"812",2413,21,2,"Hersheys","Dark",1.8,0
+"813",2413,21,3,"Ghirardelli","Milk",3.5,1
+"814",2413,22,1,"Godiva","Dark w Nuts",1.6,1
+"815",2413,22,2,"Dove","Dark w Nuts",1.8,0
+"816",2413,22,3,"Lindt","Dark w Nuts",3.6,0
+"817",2413,23,1,"Godiva","White",1.5,0
+"818",2413,23,2,"Hersheys","White",1.3,0
+"819",2413,23,3,"Godiva","Milk w Nuts",0.6,1
+"820",2413,24,1,"Ghirardelli","Dark",2.5,0
+"821",2413,24,2,"Ghirardelli","Dark w Nuts",0.8,1
+"822",2413,24,3,"Lindt","White",2.1,0
+"823",2413,25,1,"Lindt","White",3.6,0
+"824",2413,25,2,"Hersheys","White",2.5,1
+"825",2413,25,3,"Ghirardelli","Dark w Nuts",2,0
+"826",2414,1,1,"Lindt","Dark",3.7,1
+"827",2414,1,2,"Lindt","White",3.4,0
+"828",2414,1,3,"Hersheys","Milk",2.8,0
+"829",2414,2,1,"Ghirardelli","Milk",4,0
+"830",2414,2,2,"Lindt","Dark w Nuts",1.3,0
+"831",2414,2,3,"Godiva","Dark w Nuts",3.8,1
+"832",2414,3,1,"Hersheys","Milk w Nuts",3,0
+"833",2414,3,2,"Dove","White",1.3,1
+"834",2414,3,3,"Hersheys","Dark w Nuts",3.6,0
+"835",2414,4,1,"Ghirardelli","Dark w Nuts",1.4,1
+"836",2414,4,2,"Hersheys","Dark w Nuts",1.4,0
+"837",2414,4,3,"Lindt","White",2.5,0
+"838",2414,5,1,"Ghirardelli","Dark w Nuts",0.7,0
+"839",2414,5,2,"Dove","White",1.6,0
+"840",2414,5,3,"Dove","Dark",1.6,1
+"841",2414,6,1,"Ghirardelli","Dark",3.7,1
+"842",2414,6,2,"Godiva","White",3.6,0
+"843",2414,6,3,"Ghirardelli","Dark",2.1,0
+"844",2414,7,1,"Dove","White",3.5,0
+"845",2414,7,2,"Godiva","Dark",3.6,1
+"846",2414,7,3,"Dove","White",2.9,0
+"847",2414,8,1,"Dove","Milk w Nuts",1.4,1
+"848",2414,8,2,"Ghirardelli","Milk",1.2,0
+"849",2414,8,3,"Lindt","Milk",1.7,0
+"850",2414,9,1,"Godiva","Milk",3.8,0
+"851",2414,9,2,"Dove","Milk",2,0
+"852",2414,9,3,"Lindt","White",1.3,1
+"853",2414,10,1,"Lindt","Dark",2.2,1
+"854",2414,10,2,"Lindt","Milk w Nuts",2.8,0
+"855",2414,10,3,"Hersheys","Dark w Nuts",0.8,0
+"856",2414,11,1,"Hersheys","White",1.7,0
+"857",2414,11,2,"Lindt","Milk w Nuts",1.9,1
+"858",2414,11,3,"Godiva","White",3.4,0
+"859",2414,12,1,"Dove","Dark",1.7,1
+"860",2414,12,2,"Hersheys","Dark",3.1,0
+"861",2414,12,3,"Lindt","Milk w Nuts",3.1,0
+"862",2414,13,1,"Lindt","Dark w Nuts",1.9,1
+"863",2414,13,2,"Dove","White",0.6,0
+"864",2414,13,3,"Lindt","Milk w Nuts",0.5,0
+"865",2414,14,1,"Ghirardelli","White",2.9,0
+"866",2414,14,2,"Ghirardelli","Milk w Nuts",3.4,0
+"867",2414,14,3,"Ghirardelli","Dark w Nuts",3.4,1
+"868",2414,15,1,"Lindt","Dark w Nuts",3,1
+"869",2414,15,2,"Hersheys","Milk w Nuts",0.9,0
+"870",2414,15,3,"Lindt","Milk",2,0
+"871",2414,16,1,"Lindt","White",3.6,0
+"872",2414,16,2,"Ghirardelli","Dark w Nuts",3.1,1
+"873",2414,16,3,"Ghirardelli","Milk",3.6,0
+"874",2414,17,1,"Lindt","Dark w Nuts",1.9,1
+"875",2414,17,2,"Lindt","Milk w Nuts",3.9,0
+"876",2414,17,3,"Lindt","White",2.8,0
+"877",2414,18,1,"Godiva","Dark",1.3,1
+"878",2414,18,2,"Ghirardelli","Milk",3.5,0
+"879",2414,18,3,"Lindt","Dark",0.7,0
+"880",2414,19,1,"Godiva","Dark w Nuts",1.8,1
+"881",2414,19,2,"Dove","Dark",2.2,0
+"882",2414,19,3,"Godiva","Milk w Nuts",0.7,0
+"883",2414,20,1,"Dove","Milk",0.6,0
+"884",2414,20,2,"Lindt","Dark",3.3,1
+"885",2414,20,3,"Hersheys","Dark w Nuts",1.7,0
+"886",2414,21,1,"Lindt","White",2.1,0
+"887",2414,21,2,"Hersheys","Dark",2.6,0
+"888",2414,21,3,"Godiva","Dark w Nuts",2.8,1
+"889",2414,22,1,"Lindt","Milk",2.6,0
+"890",2414,22,2,"Lindt","Dark",2,1
+"891",2414,22,3,"Ghirardelli","Dark w Nuts",2.4,0
+"892",2414,23,1,"Ghirardelli","Dark",2.4,0
+"893",2414,23,2,"Godiva","Milk w Nuts",3.5,1
+"894",2414,23,3,"Lindt","White",3.9,0
+"895",2414,24,1,"Ghirardelli","Milk w Nuts",0.6,0
+"896",2414,24,2,"Godiva","Dark",3.3,1
+"897",2414,24,3,"Dove","White",2.6,0
+"898",2414,25,1,"Lindt","Dark",3.3,0
+"899",2414,25,2,"Hersheys","Dark",2.1,0
+"900",2414,25,3,"Lindt","Dark w Nuts",3,1
+"901",2415,1,1,"Ghirardelli","Dark",3,1
+"902",2415,1,2,"Lindt","White",2.5,0
+"903",2415,1,3,"Hersheys","Dark w Nuts",2.4,0
+"904",2415,2,1,"Ghirardelli","Milk",2,1
+"905",2415,2,2,"Lindt","White",2.9,0
+"906",2415,2,3,"Godiva","White",1.9,0
+"907",2415,3,1,"Lindt","Milk",2.3,0
+"908",2415,3,2,"Hersheys","Dark",0.6,1
+"909",2415,3,3,"Godiva","White",0.9,0
+"910",2415,4,1,"Hersheys","White",1.3,0
+"911",2415,4,2,"Dove","Dark",1.3,1
+"912",2415,4,3,"Lindt","Dark w Nuts",3,0
+"913",2415,5,1,"Dove","Milk",3.7,1
+"914",2415,5,2,"Hersheys","Milk w Nuts",3.6,0
+"915",2415,5,3,"Lindt","White",3.6,0
+"916",2415,6,1,"Lindt","White",4,0
+"917",2415,6,2,"Dove","White",2.5,0
+"918",2415,6,3,"Lindt","Milk w Nuts",0.8,1
+"919",2415,7,1,"Godiva","Milk",2.5,0
+"920",2415,7,2,"Dove","Dark w Nuts",2.4,1
+"921",2415,7,3,"Dove","White",2.3,0
+"922",2415,8,1,"Hersheys","Dark w Nuts",2.4,0
+"923",2415,8,2,"Hersheys","White",1.8,0
+"924",2415,8,3,"Godiva","Milk",3.7,1
+"925",2415,9,1,"Dove","Milk",3.9,1
+"926",2415,9,2,"Dove","Dark",1.9,0
+"927",2415,9,3,"Ghirardelli","Milk w Nuts",1.8,0
+"928",2415,10,1,"Lindt","Milk",3.7,1
+"929",2415,10,2,"Dove","Milk",1.1,0
+"930",2415,10,3,"Hersheys","Milk",1,0
+"931",2415,11,1,"Godiva","Dark",3.3,1
+"932",2415,11,2,"Hersheys","Dark",3.3,0
+"933",2415,11,3,"Ghirardelli","Dark w Nuts",0.6,0
+"934",2415,12,1,"Godiva","Milk",1.6,0
+"935",2415,12,2,"Ghirardelli","Dark w Nuts",1.1,0
+"936",2415,12,3,"Lindt","Milk",1.3,1
+"937",2415,13,1,"Lindt","Dark",2,1
+"938",2415,13,2,"Ghirardelli","White",3.5,0
+"939",2415,13,3,"Lindt","Milk w Nuts",3.7,0
+"940",2415,14,1,"Lindt","Milk w Nuts",1.9,1
+"941",2415,14,2,"Godiva","Dark",3,0
+"942",2415,14,3,"Hersheys","Dark",0.6,0
+"943",2415,15,1,"Dove","Milk w Nuts",3,0
+"944",2415,15,2,"Ghirardelli","Dark w Nuts",1.2,1
+"945",2415,15,3,"Godiva","White",1.1,0
+"946",2415,16,1,"Lindt","Milk w Nuts",3.3,1
+"947",2415,16,2,"Ghirardelli","Dark w Nuts",1.6,0
+"948",2415,16,3,"Dove","Dark w Nuts",1.4,0
+"949",2415,17,1,"Lindt","Dark w Nuts",3.3,0
+"950",2415,17,2,"Lindt","Milk",2.8,1
+"951",2415,17,3,"Godiva","Milk",0.9,0
+"952",2415,18,1,"Lindt","Dark",0.8,1
+"953",2415,18,2,"Hersheys","Milk",3.5,0
+"954",2415,18,3,"Hersheys","Dark w Nuts",2,0
+"955",2415,19,1,"Godiva","Dark",3.3,1
+"956",2415,19,2,"Dove","Milk w Nuts",3.1,0
+"957",2415,19,3,"Ghirardelli","Dark w Nuts",2.9,0
+"958",2415,20,1,"Lindt","Dark w Nuts",1.2,0
+"959",2415,20,2,"Lindt","White",1.5,0
+"960",2415,20,3,"Dove","Dark",0.9,1
+"961",2415,21,1,"Hersheys","White",2.2,0
+"962",2415,21,2,"Lindt","Dark w Nuts",3.3,1
+"963",2415,21,3,"Hersheys","Milk",1.9,0
+"964",2415,22,1,"Dove","Milk",3.4,0
+"965",2415,22,2,"Ghirardelli","Dark",3.3,1
+"966",2415,22,3,"Hersheys","Dark",3.8,0
+"967",2415,23,1,"Ghirardelli","Milk w Nuts",1.5,0
+"968",2415,23,2,"Hersheys","Dark",2.8,1
+"969",2415,23,3,"Hersheys","Milk w Nuts",2.5,0
+"970",2415,24,1,"Godiva","White",0.5,0
+"971",2415,24,2,"Ghirardelli","Dark w Nuts",1.1,0
+"972",2415,24,3,"Ghirardelli","Dark",1.4,1
+"973",2415,25,1,"Godiva","Milk",0.9,0
+"974",2415,25,2,"Lindt","Dark",2.2,1
+"975",2415,25,3,"Ghirardelli","Dark w Nuts",1,0
+"976",2417,1,1,"Dove","Milk",0.6,1
+"977",2417,1,2,"Godiva","Dark",0.7,0
+"978",2417,1,3,"Dove","White",3.6,0
+"979",2417,2,1,"Godiva","Milk w Nuts",2.7,1
+"980",2417,2,2,"Godiva","Dark",3.9,0
+"981",2417,2,3,"Hersheys","Milk w Nuts",0.7,0
+"982",2417,3,1,"Hersheys","Dark w Nuts",1.7,1
+"983",2417,3,2,"Godiva","Dark",3.7,0
+"984",2417,3,3,"Hersheys","Dark",3,0
+"985",2417,4,1,"Lindt","Milk",1,0
+"986",2417,4,2,"Lindt","Milk w Nuts",3.6,0
+"987",2417,4,3,"Ghirardelli","Dark w Nuts",0.5,1
+"988",2417,5,1,"Hersheys","Milk w Nuts",0.8,0
+"989",2417,5,2,"Godiva","Dark",1.5,1
+"990",2417,5,3,"Hersheys","White",3.3,0
+"991",2417,6,1,"Lindt","Milk",3.1,0
+"992",2417,6,2,"Dove","White",2.5,0
+"993",2417,6,3,"Godiva","Dark",2.6,1
+"994",2417,7,1,"Godiva","White",3.1,0
+"995",2417,7,2,"Dove","Dark w Nuts",4,0
+"996",2417,7,3,"Godiva","Milk",2.1,1
+"997",2417,8,1,"Hersheys","Dark w Nuts",0.8,0
+"998",2417,8,2,"Godiva","White",3.2,0
+"999",2417,8,3,"Godiva","Dark",1.1,1
+"1000",2417,9,1,"Lindt","Dark",2.3,0
+"1001",2417,9,2,"Godiva","Dark",1.7,1
+"1002",2417,9,3,"Godiva","White",3.8,0
+"1003",2417,10,1,"Lindt","Milk w Nuts",0.6,0
+"1004",2417,10,2,"Godiva","Milk w Nuts",0.8,1
+"1005",2417,10,3,"Hersheys","Dark",3.7,0
+"1006",2417,11,1,"Godiva","Milk",1.6,0
+"1007",2417,11,2,"Dove","White",0.7,0
+"1008",2417,11,3,"Hersheys","Dark w Nuts",1.2,1
+"1009",2417,12,1,"Godiva","Dark w Nuts",1.1,1
+"1010",2417,12,2,"Dove","Dark w Nuts",0.8,0
+"1011",2417,12,3,"Lindt","Dark",3.7,0
+"1012",2417,13,1,"Dove","Milk",3,0
+"1013",2417,13,2,"Lindt","White",0.8,1
+"1014",2417,13,3,"Godiva","White",1.9,0
+"1015",2417,14,1,"Lindt","Dark w Nuts",0.6,1
+"1016",2417,14,2,"Dove","Milk",3.5,0
+"1017",2417,14,3,"Dove","Milk w Nuts",1.9,0
+"1018",2417,15,1,"Godiva","Dark",3.7,0
+"1019",2417,15,2,"Ghirardelli","Dark",1.5,1
+"1020",2417,15,3,"Dove","Dark",1.6,0
+"1021",2417,16,1,"Hersheys","Milk w Nuts",0.5,1
+"1022",2417,16,2,"Dove","Milk",3.8,0
+"1023",2417,16,3,"Dove","Dark w Nuts",3.7,0
+"1024",2417,17,1,"Dove","Milk",3.9,0
+"1025",2417,17,2,"Dove","Milk w Nuts",1.2,1
+"1026",2417,17,3,"Lindt","Milk w Nuts",0.5,0
+"1027",2417,18,1,"Godiva","Milk w Nuts",2.8,0
+"1028",2417,18,2,"Lindt","Milk",2.7,1
+"1029",2417,18,3,"Godiva","White",2.6,0
+"1030",2417,19,1,"Hersheys","Milk",3.7,0
+"1031",2417,19,2,"Dove","Dark w Nuts",4,0
+"1032",2417,19,3,"Dove","Dark",2.8,1
+"1033",2417,20,1,"Dove","Dark",0.7,1
+"1034",2417,20,2,"Godiva","White",0.8,0
+"1035",2417,20,3,"Hersheys","Dark",1.9,0
+"1036",2417,21,1,"Ghirardelli","Milk w Nuts",0.8,1
+"1037",2417,21,2,"Hersheys","Milk",3,0
+"1038",2417,21,3,"Godiva","Milk w Nuts",2.4,0
+"1039",2417,22,1,"Godiva","Dark",0.9,1
+"1040",2417,22,2,"Dove","Milk w Nuts",3.4,0
+"1041",2417,22,3,"Hersheys","Dark w Nuts",3.4,0
+"1042",2417,23,1,"Godiva","Dark w Nuts",0.6,1
+"1043",2417,23,2,"Dove","White",1.8,0
+"1044",2417,23,3,"Dove","Dark",3.4,0
+"1045",2417,24,1,"Hersheys","Dark w Nuts",3.6,0
+"1046",2417,24,2,"Godiva","Milk w Nuts",3.2,0
+"1047",2417,24,3,"Ghirardelli","Milk w Nuts",1.4,1
+"1048",2417,25,1,"Lindt","White",1.1,0
+"1049",2417,25,2,"Ghirardelli","White",0.8,0
+"1050",2417,25,3,"Lindt","Milk",2,1
