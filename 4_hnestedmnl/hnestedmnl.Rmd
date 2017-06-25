@@ -298,6 +298,8 @@ pairs(fit, pars=c('y','x[1]'), las=1)
 
 ## Reparameterized Model
 
+Non-Centered Parameterization
+
 ```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
 parameters {  
   real y_raw;
@@ -372,3 +374,20 @@ fig3 <- rasterGrob(readPNG("img/vtask3.png"), interpolate=TRUE)
 grid.arrange(fig1, fig2, fig3, ncol=3)
 ```
 
+# Summary of Module 4
+
+## In this module we have:
+
+- Discussed posterior predictive probabilities
+    + How to compute them
+    + When predictions from point estimates are biased
+
+- Created a custom model to solve a specific problem
+    + A common case where MNL goes wrong: `none` vs actual product
+    + Solution using restricted form of nested multinomial logit
+    + Converting equations into Stan code
+
+- Discussed computational issues
+    + Vectorization
+    + Problem of highly variable posterior curvature
+    + Non-centered parameterization
