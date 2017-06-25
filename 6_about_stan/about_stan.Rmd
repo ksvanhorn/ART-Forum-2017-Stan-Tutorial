@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Hamiltonian Monte Carlo
 - To produce draws from the posterior distribution, Stan uses a variation of **Hamiltonian Monte Carlo (HMC)** called the **No U-Turn Sampler (NUTS)**. 
-- HMC is a variation on the Metropolis-Hastings (M-H) algorithm, but it uses the gradient of the distribution to more more quickly to areas of high density. 
-- NUTS further improves on HMC by branching out in many directions at once and avoiding repeated visits to the same area of the posterior. 
-- For an overview of HMC see the [MCMC Handbook Chapter by Radford Neal] (http://www.mcmchandbook.net/HandbookChapter5.pdf) and for more on NUTS see [Hoffman and Gelman](http://www.stat.columbia.edu/~gelman/research/published/nuts.pdf). 
+- HMC is a variation on the Metropolis-Hastings (M-H) algorithm, but it uses the gradient of the distribution to more quickly explore the bulk of the posterior. 
+- NUTS further improves on HMC by automating tuning of the HMC algorithm. 
+- For an overview of HMC see the [MCMC Handbook Chapter by Radford Neal](http://www.mcmchandbook.net/HandbookChapter5.pdf) and for more on NUTS see [Hoffman and Gelman](http://www.stat.columbia.edu/~gelman/research/published/nuts.pdf). 
 
 ## There are other ways to interface with Stan 
 - RStan (R)

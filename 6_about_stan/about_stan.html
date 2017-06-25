@@ -105,9 +105,9 @@
 
 <ul>
 <li>To produce draws from the posterior distribution, Stan uses a variation of <strong>Hamiltonian Monte Carlo (HMC)</strong> called the <strong>No U-Turn Sampler (NUTS)</strong>.</li>
-<li>HMC is a variation on the Metropolis-Hastings (M-H) algorithm, but it uses the gradient of the distribution to more more quickly to areas of high density.</li>
-<li>NUTS further improves on HMC by branching out in many directions at once and avoiding repeated visits to the same area of the posterior.</li>
-<li>For an overview of HMC see the [MCMC Handbook Chapter by Radford Neal] (<a href='http://www.mcmchandbook.net/HandbookChapter5.pdf' title=''>http://www.mcmchandbook.net/HandbookChapter5.pdf</a>) and for more on NUTS see <a href='http://www.stat.columbia.edu/~gelman/research/published/nuts.pdf' title=''>Hoffman and Gelman</a>.</li>
+<li>HMC is a variation on the Metropolis-Hastings (M-H) algorithm, but it uses the gradient of the distribution to more quickly explore the bulk of the posterior.</li>
+<li>NUTS further improves on HMC by automating tuning of the HMC algorithm.</li>
+<li>For an overview of HMC see the <a href='http://www.mcmchandbook.net/HandbookChapter5.pdf' title=''>MCMC Handbook Chapter by Radford Neal</a> and for more on NUTS see <a href='http://www.stat.columbia.edu/~gelman/research/published/nuts.pdf' title=''>Hoffman and Gelman</a>.</li>
 </ul>
 
 </article></slide><slide class=''><hgroup><h2>There are other ways to interface with Stan</h2></hgroup><article  id="there-are-other-ways-to-interface-with-stan">
