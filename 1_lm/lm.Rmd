@@ -1,6 +1,6 @@
 ---
 title: "Stan Tutorial"
-subtitle: "Module 2: Linear Regression Model"
+subtitle: "Module 1: Linear Regression Model"
 author: "Kevin Van Horn and Elea McDonnell Feit"
 date: "June 25, 2017"
 output: ioslides_presentation
@@ -17,7 +17,7 @@ require(rstan)
 In this module, we will run a linear model (standard regression) using Stan.  
   
 This will allow us to:  
-- Understand how to do Bayesian inference with Stan without getting bogged down in details.  
+- Understand how to do Bayesian inference with Stan without getting bogged down in modeling details.  
 
 Running a linear model in Stan isn't something we would normally do in our own work, but it gives us a simple starting point that most people are familar with. We will add details and complexity in subsequent modules.
 
@@ -95,7 +95,7 @@ That's pretty straightforward!
 ## Stan `parameters`
 - intercept `beta0`  
 - a vector of `K` parameters that multiplies the product attributes in `X` which is called `beta`   
-- a variance parameters `sigma`  
+- a variance parameter `sigma`  
 *Don't type this into R!*  
 ```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
 parameters {
@@ -175,7 +175,7 @@ knitr::include_graphics("images/Bayesian_Inference.png")
 
 ## Running the model
 Now that we have a Stan model and data in Stan format, we can ask Stan to produce random draws from the posterior for us. 
-```{r, eval=TRUE, echo=TRUE}
+```{r, eval=TRUE, echo=TRUE, cache=TRUE}
 library(rstan)  ## load interface to Stan
 m.stan <- stan(model_code = lm.stan, data = cc.standata, 
                iter = 1000, chains=1)
@@ -238,9 +238,15 @@ plot(m.stan, pars=c("beta0", "beta"))
 - The color has almost no effect on the rating (`beta[8]`).  
 
 ## Assessing convergence with traceplots
-There is some risk that the Stan sampler did not reach the proper posterior.  If this happens, we can usually detect it by ploting the draws in order over time (called a *traceplot*.)
+There is some risk that the Stan sampler did not reach the proper posterior.  If this happens, we can usually detect it by ploting the draws in order over time (called a *traceplot*.) 
 ```{r, eval=TRUE, echo=TRUE}
 plot(m.stan, plotfun="trace", pars=c("beta0", "beta", "sigma"))
+```
+
+## Fuzzy caterpillar
+Traceplots should look like fuzzy caterpillars.
+```{r, fig.align="center"}
+knitr::include_graphics("images/fuzzycaterpillar.jpg")
 ```
 
 ## Histograms of posterior draws
@@ -292,7 +298,7 @@ get_stanmodel(m.stan)
     - Testing the model using synthetic data   
     - Comparing inference from `stan()` to `lm()`   
         + OLS regression in R using `lm()`  
-        + Bayesian regression using `MCMCregress()' from `MCMCPack`  
+        + Bayesian regression using `MCMCregress()` from `MCMCPack`  
 
 ## A note on hierarchical models
 - Lenk et al. (1996) used this data set to illustrate a *hierarchical* linear model and that is a more approrpriate model for this data.  
