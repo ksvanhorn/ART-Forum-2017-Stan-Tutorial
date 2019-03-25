@@ -120,7 +120,7 @@ str(choc.standata)
 ```
 
 ## Bayesian inference
-![](/images/Bayesian_Inference.png")
+![](images/Bayesian_Inference.png)
 
 ## Call the `stan()` function
 ```{R}
@@ -168,9 +168,11 @@ Predicted shares for no-choice option are much less than predicted.
 ```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
 model {
   lambda ~ uniform(0, 1);
-  sigma_raw ~ normal(0, 1);
-  to_vector(Theta_raw) ~ normal(0, 1);
+  sigma ~ normal(0, 5);
+  to_vector(Theta) ~ normal(0, 10);
   to_vector(Epsilon) ~ normal(0, 1);
+  matrix[K+1, R] Beta = 
+    Theta * Z + diag_pre_multiply(sigma, Epsilon);
   for (r in 1:R) {
     vector[K] b = Beta[2:(K+1), r];
     real alpha = Beta[1,r];
