@@ -21,7 +21,7 @@ if (FALSE) {
   install.packages("MASS")
   install.packages("rstan")
   install.packages("bayesplot")
-  install.pacakges("MCMCpack")
+  install.packages("MCMCpack")
 }
 
 # ========= Load and inspect computer conjoint study ==========

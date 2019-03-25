@@ -45,13 +45,14 @@ If this distribution is new to you, check out the [wikipedia page](https://en.wi
 
 ## Covariance matricies
 Covariance matrices like `Sigma` are square matrices with special properties. Stan provides special data types just for storing covariance matrices: 
-```{stan, stan, eval=FALSE, echo=TRUE, output.var="dummy"}
-corr_matrix[K] mycorrmatrix; 
-```
-And there is a covariance matrix type as well: 
 ```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
 cov_matrix[K] mycovmatrix;
 ```
+And there is a correlation matrix type as well: 
+```{stan, stan, eval=FALSE, echo=TRUE, output.var="dummy"}
+corr_matrix[K] mycorrmatrix; 
+```
+
 
 ## Other parameterizations
 If you prefer other parameterizations of the multivariate normal, they are available. 
@@ -59,7 +60,7 @@ If you prefer other parameterizations of the multivariate normal, they are avail
 y ~ multi_normal_prec(mu, Omega);
 y ~ multi_normal_cholesky(mu, L);
 ```
-There are even special types for Cholesy factors, if you are into that. (It can be important for computational efficiency.)
+There are even special types for Cholesky factors, if you are into that. (It can be important for computational efficiency.)
 ```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
 cholesky_factor_cov[K] L;
 cholesky_factor_cor[K] L;
@@ -137,12 +138,19 @@ data {
   int<lower=1> K; // # of covariates of alternatives
   int<lower=1> R; // # of respondents
   int<lower=1> S; // # of scenarios per respondent
-  int<lower=0> G; // # of respondent covariates 
+  int<lower=1> G; // # of respondent covariates 
   int<lower=1,upper=C> Y[R, S]; // observed choices
   matrix[C, K] X[R, S]; // matrix of attributes for each obs
   matrix[G, R] Z; // vector of covariates for each respondent
 }
 ```
+
+## Choice sets of varying size
+You may have noticed that we have defined `X` to be a fixed size for each choice question.  
+```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
+  matrix[C, K] X[R, S]; // matrix of attributes for each obs
+```
+It is possible to write a Stan model that will accomodate a different number of alternatives in each scenario. Look for information on ragged arrays in Stan.
 
 ## Parameters
 ```{stan, eval=FALSE, echo=TRUE, output.var="dummy"}
@@ -162,6 +170,7 @@ transformed parameters {
   cov_matrix[K] Sigma = quad_form_diag(Omega, tau);
 }
 ```
+If you aren't using the tranformed parameter in the `model` block, it is more computationally efficient to put it in the `generated quantities` block.
 
 ## Model
 We can use any transformed parameters in our model block. 
@@ -245,7 +254,7 @@ str(d1)
 ```
 
 ## Running the hmnl on synthetic data
-```{r, message=FALSE, warning=FALSE, error=FALSE}
+```{r, message=FALSE, warning=FALSE, error=FALSE, cache=TRUE}
 test.stan <- stan(file="hmnl.stan", data=d1, iter=1000, chains=4) 
 ```
 
@@ -361,7 +370,7 @@ knitr::include_graphics("images/Bayesian_Inference.png")
 ```
 
 ## Call the `stan()` function
-```{R}
+```{r, cache=TRUE}
 choc.stan <- stan(file="hmnl.stan", data=choc.standata)
 ```
 

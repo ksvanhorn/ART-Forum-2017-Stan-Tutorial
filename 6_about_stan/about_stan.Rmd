@@ -52,7 +52,7 @@ Examples of when this is handy are beyond the scope of this tutorial.
 - coda
     + tools for summarizing draws
 - bayesplot
-    + tolls for summarizing draws
+    + tools for summarizing draws
 - ShinyStan
     + a GUI for exploring posterior draws
 - RStanArm

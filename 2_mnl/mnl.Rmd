@@ -17,6 +17,8 @@ This will allow us to:
 - Start to learn the Stan model syntax.  
 - Go through the Bayesian inference process more carefully and completely.  
 
+Think of Module 1 as the "Quick Start Guide," while Module 2 is a more comprehensive "How-To Guide". 
+
 # Stan model syntax basics
 
 ## Required Stan model components
@@ -61,7 +63,7 @@ Specific `vector` and `matrix` types must be used when you want to do matrix ope
 **Vectors and Matrices**
 ```{stan, eval=FALSE, output.var="stanjunk",}
 vector[25] myvector;  // column vector of length 25
-row_vector[10] myrowvector; // row vector of lenght 25
+row_vector[10] myrowvector; // row vector of length 25
 matrix[10, 25] mymatrix; 
 ```
 - You can multiply a `vector` by a `matrix` or a `matrix` by a `matrix` (assuming dimenions match). 
@@ -109,7 +111,7 @@ matrix<lower=c1, upper=c2>[rows, cols] varname[dim1, dim2, ...];
 - While these are the main data types we use regularly, there are many other data types that Stan provides.  
 - We'll leave it to you to discover those in the context of specific examples where they are useful. 
 
-## Specifing probability distributions
+## Specifying probability distributions
 The core of any Stan model is the `model` block, where you define probability distributions for the observables. For instance, in our linear model, we defined y as normally distributed. 
 ```{stan, eval=FALSE, output.var="stanjunk"}
 y ~ normal(beta0 + X*beta, sigma);
@@ -156,9 +158,18 @@ myarrayofmatrices[1, 2, 3]; // element in second row and third column
 - You specify a prior for a parameter by defining a distribution for the parameter in the `model` block.
 - Since the NUTS algorithm used by default in Stan is gradient-based, there is no benefit to sticking to conjugate priors (as in Gibbs sampling). 
 
+## Parameters
+- All parameters in a Stan model must be continuous, i.e. you can't have an `int` type parameter. 
+- This means you can't use models with latent discrete variables. 
+    + For instance you can't estimate membership variables in a mixture model. 
+- This is due to the fact that the MCMC algorithm that Stan uses to generate draws from the posterior relies on gradients. 
+- Discrete observables (like we have in the mnl) are fine!
+
 ## Learning more about Stan syntax 
-The best way to learn about the Stan language is to read the [Stan Modeling Language: 
-User’s Guide and Reference Manual](file:///C:/Users/emf75/Downloads/stan-reference-2.15.0%20(2).pdf), which is fairly easy to read and introduces much of the syntex in the context of specific examples. 
+- The best way to learn about the Stan language is to read the [Stan Modeling Language: 
+User’s Guide and Reference Manual](https://github.com/stan-dev/stan/releases/download/v2.16.0/stan-reference-2.16.0.pdf), which is fairly easy to read and introduces much of the syntax in the context of specific examples. 
+- If you want to learn about how to use Stan from R, the [rstan vignette](https://cran.r-project.org/web/packages/rstan/vignettes/rstan.html) will walk you through a typical analysis with rstan, very similar to this tutorial.
+- There is a very active [Stan forum](http://discourse.mc-stan.org/) board, but since Stan does change over time, make sure the post you are looking at is recent. 
 
 # Stan code for mnl
 
@@ -250,7 +261,7 @@ str(d1)
 
 ## Run Stan model on synthetic data
 To run the model, we call the `stan()` function. Note that we pass filename `mnl.stan` to the stan function.  Make sure that file is in the working directory (or provide a full path)!
-```{r}
+```{r, cache=TRUE}
 test.stan <- stan(file="mnl.stan", data=d1, iter=1000, chains=4) 
 summary(test.stan)$summary
 ```
@@ -415,7 +426,7 @@ str(X)
 ```
 
 ## Create the list object for `stan()`
-```{r}
+```{r, cache=TRUE}
 choc.standata <- list(N=length(Y), C=3, K=9, Y=Y, X=X)
 rm(Y, X, n, R, S, r, s, choc.contrasts, scenario, choc.coded)
 ```
@@ -484,11 +495,11 @@ beta.mean
 ```
 
 ## Computing shares from point estimates (2)
-Compute shares. 
+Compute shares from the point estimates. **This is bad practice as it does not account for our uncertainty in beta!**
 ```{r}
 shares.mnl.point(beta.mean, choc.standata$X[[1]]) 
 ```
-**This is bad practice as it does not account for our uncertainty in beta!**
+
 
 ## Posterior draws of `beta`
 To understand the full posterior of the shares, we should use all of the posterior draws for beta, which represent out uncertainty in `beta`.
